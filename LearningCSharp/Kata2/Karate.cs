@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LearningCSharp
+namespace LearningCSharp.Kata2
 {
     public class Karate
     {
