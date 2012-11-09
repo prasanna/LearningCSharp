@@ -1,9 +1,7 @@
-﻿using System.Text;
-using System.Collections.Generic;
-using System.Linq;
+﻿using LearningCSharp.Kata2;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace LearningCSharp
+namespace UnitTests.Kata2
 {
     [TestClass]
     public class KarateTests
